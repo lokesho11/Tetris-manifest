@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: lokesho11/docker:latest
+        image: lokesho11/docker:V.1.2
         ports:
         - containerPort: 3000   # Use port 3000
 
